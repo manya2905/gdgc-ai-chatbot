@@ -16,4 +16,4 @@ Make sure your backend runs on:
 http://localhost:3000/chat
 
 I have also attached the final image of the bot.
-
+Also my API key is disabled by openrouter due to security reasons.
